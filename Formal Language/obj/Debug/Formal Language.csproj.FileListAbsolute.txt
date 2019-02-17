@@ -1,0 +1,49 @@
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\bin\Debug\Formal Language.exe.config
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\bin\Debug\Formal Language.exe
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\bin\Debug\Formal Language.pdb
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal Language.csprojAssemblyReference.cache
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal_Language.Properties.Resources.resources
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal_Language.UserControls.StringGenerator.resources
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal Language.csproj.GenerateResource.cache
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal Language.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal Language.exe
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal Language.pdb
+C:\Users\Mihai\source\repos\Formal Language\Formal Language\obj\Debug\Formal_Language.MainForm.resources
+D:\Projects\Formal-Languages\Formal Language\bin\Debug\Formal Language.exe.config
+D:\Projects\Formal-Languages\Formal Language\bin\Debug\Formal Language.exe
+D:\Projects\Formal-Languages\Formal Language\bin\Debug\Formal Language.pdb
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal Language.csprojAssemblyReference.cache
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal_Language.MainForm.resources
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal_Language.Properties.Resources.resources
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal_Language.UserControls.StringGenerator.resources
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal Language.csproj.GenerateResource.cache
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal Language.csproj.CoreCompileInputs.cache
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal Language.exe
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal Language.pdb
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal_Language.UserControls.PushDown.resources
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\bin\Debug\Formal Language.exe.config
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\bin\Debug\Formal Language.exe
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\bin\Debug\Formal Language.pdb
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal Language.csprojAssemblyReference.cache
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal_Language.MainForm.resources
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal_Language.Properties.Resources.resources
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal_Language.UserControls.PushDown.resources
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal_Language.UserControls.StringGenerator.resources
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal Language.csproj.GenerateResource.cache
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal Language.csproj.CoreCompileInputs.cache
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal Language.exe
+C:\Users\Mihai\Desktop\Formal-Languages\Formal Language\obj\Debug\Formal Language.pdb
+D:\Projects\Formal-Languages\Formal Language\obj\Debug\Formal_Language.UserControls.TableGeneration.resources
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\bin\Debug\Formal Language.exe.config
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\bin\Debug\Formal Language.exe
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\bin\Debug\Formal Language.pdb
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal Language.csprojAssemblyReference.cache
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal_Language.MainForm.resources
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal_Language.Properties.Resources.resources
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal_Language.UserControls.PushDown.resources
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal_Language.UserControls.StringGenerator.resources
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal_Language.UserControls.TableGeneration.resources
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal Language.csproj.GenerateResource.cache
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal Language.csproj.CoreCompileInputs.cache
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal Language.exe
+C:\Users\BAJENARUPAVEL-ALEXAN\Desktop\LFC\Formal-Languages-master\Formal Language\obj\Debug\Formal Language.pdb

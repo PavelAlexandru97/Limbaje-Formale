@@ -1,0 +1,10 @@
+﻿id + * - ( ) $
+E T F
+E E+T
+E T
+E E-T
+T T*F
+T F
+F (E)
+F -(E)
+F id
